@@ -20,16 +20,11 @@ Os dados são fornecidos pela API TMDB. Para utilizar a API, siga os passos abai
 - **HTTP**: Responsável por requisições à API.
 
 ## Paginas do App
-![](https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/telaincialapp.png?raw=true)
-![](https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/telafilmesapp.png?raw=true)
-![](https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/telalan%C3%A7amentos.png?raw=true)
-![](https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/teladescricao.png?raw=true)
+<img src = "https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/telaincialapp.png?raw=true" alt="Pagina inicial" width="500" />
+<img src = "https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/telafilmesapp.png?raw=true" alt="Pagina de filmes" width="500" />
+<img src = "https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/telalan%C3%A7amentos.png?raw=true" alt="Pagina de lançamentos" width="500" />
+<img src = "https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/teladescricao.png?raw=true" alt="Pagina de descrição" width="500" />
 
-
-
----
-
-Se precisar de ajuda para adicionar algo mais técnico ou estético, só me chamar! 🚀🎥
 
 
 

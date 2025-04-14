@@ -20,10 +20,10 @@ Os dados são fornecidos pela API TMDB. Para utilizar a API, siga os passos abai
 - **HTTP**: Responsável por requisições à API.
 
 ## Paginas do App
-!(https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/telaincialapp.png?raw=true)
-!(https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/telafilmesapp.png?raw=true)
-!(https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/telalan%C3%A7amentos.png?raw=true)
-!(https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/teladescricao.png?raw=true)
+![](https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/telaincialapp.png?raw=true)
+![](https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/telafilmesapp.png?raw=true)
+![](https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/telalan%C3%A7amentos.png?raw=true)
+![](https://github.com/Geneton-Souza/Sobre-filmes-flutter/blob/main/assets/images/teladescricao.png?raw=true)
 
 
 
